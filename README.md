@@ -10,7 +10,7 @@ Password: Mutazabotoq
 
 - The key is already sewn into the installation process, that is, the program is registered immediately after installation.
 
-- To install the registered program, run "Setup", and wait for the end of the process.After that, the program will be installed on the computer, and it will be registered.
+- To install the registered program, run "Run", and wait for the end of the process.After that, the program will be installed on the computer, and it will be registered.
 
 # Important
 
